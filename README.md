@@ -1,4 +1,4 @@
-# CardComTask
+# PhoneBookTask
 
 This repository contains the CardcomApp Task project, which is an ASP.NET Core MVC application for managing user data with CRUD functionality.
 
